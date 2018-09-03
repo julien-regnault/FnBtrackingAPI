@@ -1,5 +1,7 @@
 # F&B Tracking API
 
-This RestFUL API tracks the amount of F&B wastage to help airline companies collecting data about passengers consumption.
+REST API backend for the tracking of F&B wastage for airline companies.
+The data collected about passengers consumption will help to build predictive models.
 
-This project use [LoopBack](http://loopback.io)
+Powered [LoopBack](http://loopback.io).
+
