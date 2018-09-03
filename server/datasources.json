@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "ds123181.mlab.com",
+    "port": 23181,
+    "database": "heroku_215sspjc",
+    "password": "j39npirnl9f6rirem8hpsf7ejl",
+    "name": "db",
+    "connector": "mongodb",
+    "user": "heroku_215sspjc",
+
+    "useNewUrlParser": true
+  }
+}

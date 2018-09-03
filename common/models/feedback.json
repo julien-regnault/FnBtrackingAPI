@@ -1,0 +1,50 @@
+{
+  "name": "feedback",
+  "plural": "feedbacks",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "flight": {
+      "type": "string"
+    },
+    "aircraft": {
+      "type": "string"
+    },
+    "pax": {
+      "type": "number",
+      "default": 0
+    },
+    "departing": {
+      "type": "string"
+    },
+    "arriving": {
+      "type": "string"
+    },
+    "datetime": {
+      "type": "number"
+    },
+    "meal1": {
+      "type": "number",
+      "default": 0
+    },
+    "meal2": {
+      "type": "number",
+      "default": 0
+    },
+    "meal3": {
+      "type": "number",
+      "default": 0
+    },
+    "meal4": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
