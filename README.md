@@ -6,5 +6,8 @@ The data collected about passengers consumption will help to build predictive mo
 
 Hosted on [Heroku](https://app-fnbtracking-api.herokuapp.com/). Data are stored on a MongoDB database hosted on [mLab](https://mlab.com/).
 
+- List of feedbacks: https://app-fnbtracking-api.herokuapp.com/api/feedbacks
+- Loopback API explorer: https://app-fnbtracking-api.herokuapp.com/explorer/ 
+
 Powered [LoopBack](http://loopback.io).
 
