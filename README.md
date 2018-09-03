@@ -1,6 +1,6 @@
 # F&B Tracking API
 
-REST API backend to track F&B wastage for airline companies.
+REST API backend to track Food and Beverage wastage for airline companies.
 
 The data collected about passengers consumption will help to build predictive models.
 
