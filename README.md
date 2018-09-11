@@ -9,5 +9,5 @@ Hosted on [Heroku](https://app-fnbtracking-api.herokuapp.com/). Data are stored 
 - List of feedbacks: https://app-fnbtracking-api.herokuapp.com/api/feedbacks
 - Loopback API explorer: https://app-fnbtracking-api.herokuapp.com/explorer/ 
 
-Powered [LoopBack](http://loopback.io).
+Powered by [LoopBack](http://loopback.io).
 
